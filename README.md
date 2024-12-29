@@ -1,4 +1,4 @@
-# [readme.so](https://readme.so/editor)
+# &copy; [readme.so](https://readme.so/editor)
 
 
 # Project Title
